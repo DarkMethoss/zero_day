@@ -12,6 +12,6 @@ To get started with this project, follow these steps:
 
 1. step one.
 2. step two.
-3. steo three.
+3. step three.
 
 
